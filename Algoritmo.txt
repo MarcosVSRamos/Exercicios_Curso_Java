@@ -10,8 +10,9 @@
 	2 - não:
 	    1 - Ir até a cozinha
 	    2 - Pegar uma garrafa de água na geladeira
-	    3 - Encher a garrafa na torneira
-	    4 - colocar a garrafa na geladeira
+		3 - Beber água
+	    4 - Encher a garrafa na torneira
+	    5 - colocar a garrafa na geladeira
 5 - Ir ao banheiro
 6 - Usar o Banheiro
 7 - Lavar as mãos na pia do banheiro
