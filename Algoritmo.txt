@@ -1,0 +1,29 @@
+1 - Acordar
+2 - levantar
+3 - Olhar para a mesa ao lado da cama
+4 - Tem uma garrafa de água na mesa?
+	1 - sim:
+	    1 - Beber água
+	    2 - Levar a garrafa até a cozinha
+	    3 - Encher a garrafa na torneira
+	    4 - colocar a garrafa na geladeira
+	2 - não:
+	    1 - Ir até a cozinha
+	    2 - Pegar uma garrafa de água na geladeira
+	    3 - Encher a garrafa na torneira
+	    4 - colocar a garrafa na geladeira
+5 - Ir ao banheiro
+6 - Usar o Banheiro
+7 - Lavar as mãos na pia do banheiro
+8 - Escovar o dentes
+9 - está em jejum intermitente?
+	1 - sim:
+	    1 - se arrumar para o trabalho
+	2 - não:
+	    1 - preparar o café
+	    2 - tomar café da manhã
+	    3 - limpar a louça do café
+	    4 - se arrumar para o trabalho
+10 - ir trabalhar
+
+FIM.
